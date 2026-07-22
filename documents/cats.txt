@@ -1,0 +1,3 @@
+Cats are playful animals.
+Many people love cats.
+Python can be used to build pet care apps.
